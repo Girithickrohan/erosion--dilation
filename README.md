@@ -24,7 +24,7 @@ Dilate the Image
 ## Name: GIRITHICK ROHAN
 ## Reg.No:  212223230063
  Python
-# Import the necessary packages
+ Import the necessary packages
 ```
 import cv2
 import numpy as np
