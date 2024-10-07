@@ -21,8 +21,11 @@ Erode the image
 Dilate the Image
  
 ## Program:
-# Name: GIRITHICK ROHAN
-# Reg.No:  212223230063
+ 
+ Name: GIRITHICK ROHAN
+
+ Reg.No:  212223230063
+ 
  Python
  Import the necessary packages
 ```
